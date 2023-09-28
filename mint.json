@@ -24,6 +24,7 @@
       "url": "magisim@protonmail.ch"
     }
   ],
+<<<<<<< HEAD
   "tabs": [
     {
       "name": "API Reference",
@@ -42,6 +43,12 @@
       "url": "https://github.com/devbrones/magisim"
     }
   ],
+=======
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
+  },
+>>>>>>> 495a56a67d06ab5b9f4c014b65ba0c0af091f28b
   "navigation": [
     {
       "group": "Get Started",
