@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Magisim",
   "logo": {
-    "dark": "/logo/logo-new-1000px.png",
-    "light": "/logo/logo-new-1000px.png"
+    "dark": "/logo/logo-docs-dark.png",
+    "light": "/logo/logo-docs-light.png"
   },
   "favicon": "/magisim_logo256.png",
   "colors": {
