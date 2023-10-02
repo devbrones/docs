@@ -34,7 +34,7 @@
     {
       "name": "News",
       "icon": "newspaper",
-      "url": "news"
+      "url": "/news"
     },
     {
       "name": "Twitter",
