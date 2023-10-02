@@ -24,7 +24,11 @@
       "url": "magisim@protonmail.ch"
     }
   ],
-  "tabs": [
+  "tabs": [    
+    {
+      "name": "News",
+      "url": "news"
+    },
     {
       "name": "API Reference",
       "url": "api-reference"
