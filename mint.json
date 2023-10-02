@@ -26,15 +26,16 @@
   ],
   "tabs": [    
     {
-      "name": "News",
-      "url": "news"
-    },
-    {
       "name": "API Reference",
       "url": "api-reference"
     }
   ],
   "anchors": [
+    {
+      "name": "News",
+      "icon": "newspaper",
+      "url": "news"
+    },
     {
       "name": "Twitter",
       "icon": "twitter",
